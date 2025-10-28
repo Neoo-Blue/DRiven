@@ -113,7 +113,7 @@ You can adjust these paths if needed, but ensure any changes are reflected in th
 
 We also encourage you to join our Discord community for additional support and discussions. Click below to join:
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20us-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/rivenmedia)
+[![Discord](https://img.shields.io/badge/Discord-Join%20us-7289DA?style=for-the-badge&logo=discord)](https://discord.riven.tv)
 
 ## Need Help?
 
@@ -123,6 +123,5 @@ If you need any help with installation or configuration, feel free to join our D
 
 This project integrates with the following components:
 
-- [Riven](https://github.com/rivenmedia/riven) by RivenMedia.
-- [Zurg](https://github.com/debridmediamanager/zurg-testing) by Debrid Media Manager.
+- [Riven](https://riven.tv) by RivenMedia.
 - [Plex Media Server](https://github.com/plexinc/pms-docker) by Plex, Inc.
